@@ -1,0 +1,28 @@
+body
+{
+    background: cyan;
+}
+.count-container{
+    font-weight: bolder;
+    font-size: 10vw;
+}
+.decrease
+{
+    background:red;
+}
+
+.reset
+{
+    background:black;
+}
+
+.increase
+{
+    background:green;
+}
+
+.heading
+{
+    color:rgb(155, 54, 54);
+    font-family: cursive
+}
